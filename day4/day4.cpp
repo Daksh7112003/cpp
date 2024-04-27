@@ -3,6 +3,10 @@
 using namespace std;
 
 
+
+// Built in datatypes .....
+
+
 // int main(){
 //     float d = 234.45f;  //reference variable
 
@@ -36,3 +40,11 @@ int main(){
     cout<<"The size of 34.4 is "<< sizeof(34.4l)<<endl;
 
 }
+
+
+
+
+
+
+
+

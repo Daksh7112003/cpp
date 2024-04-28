@@ -1,5 +1,9 @@
 #include<iostream>
 
+
+// typecasting
+
+
 using namespace std;
 int main(){
     int a = 45 ;

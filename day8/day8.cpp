@@ -22,3 +22,8 @@ int main(){
 }
 
 }
+
+
+
+//thats the  difference between break and continue...
+

@@ -22,6 +22,15 @@ int main(){
     cout<<"The value of *(p+1) is"<<*(p+1)<<endl;
 
     cout<<"The value of *(p+2) is "<<*(p+2)<<endl;
+
+
+    int l =3;
+
+      int*b = &l ;
+
+    cout<<b<<endl;
+
+
      return 0;
 
 

@@ -25,7 +25,7 @@ int main(){
     }
 
     cout<<endl;
-    
+
 
 
 
@@ -36,19 +36,10 @@ int main(){
 
     for(auto it = l1.rbegin() ; it!=l1.rend(); it++){
 
-        cout<<*it;
+        cout<<*it;   //  thats 
         cout<<" ";
 
     }
-
-
-
-
-
-
-
-
-
 
 
 }

@@ -31,7 +31,7 @@ int main(){
 
 
 
-    // for reversing the list in stl..........
+    // for reversing the list in stl...........
 
 
     for(auto it = l1.rbegin() ; it!=l1.rend(); it++){
